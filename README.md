@@ -1,4 +1,6 @@
-BUSINESS DATA PROCESSING SPECIALIST & COMPUTER SCIENTIST -> Systems Admin + Developer -> "Physical - Made in Thailand, Logical - Made in Switzerland"
+BUSINESS DATA PROCESSING SPECIALIST & COMPUTER SCIENTIST 
+-> Systems Admin + Developer 
+-> "Physical - Made in Thailand, Logical - Made in Switzerland"
 
 - 👋 Hi, I’m @wkl21
 - 👀 I’m interested in everything about technology (in this moment cryptocurrencies)
