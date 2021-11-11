@@ -1,4 +1,5 @@
-BUSINESS DATA PROCESSING SPECIALIST & COMPUTER SCIENTIST 
+BUSINESS DATA PROCESSING SPECIALIST & COMPUTER SCIENTIST
+
 -> Systems Admin + Developer 
 -> "Physical - Made in Thailand, Logical - Made in Switzerland"
 
